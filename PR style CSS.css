@@ -1,0 +1,36 @@
+/*CSS : membuat tampilan lebih terorganisir dan menarik.*/
+body{
+	background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/fs/4e0cc328008799.56e41b35c50a5.gif);
+}
+h1{
+	text-align: center;
+	color: darkblue;
+	font-weight: 800;
+	font-family: Algerian;
+}
+table{
+	background-color: lightpink;
+	color: darkblue;
+	font-family: Comic Sans MS;
+}
+input[type='Submit'],
+#Submit{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 100%;
+	background: lightblue;
+	padding: 5px;
+	font-size: 20;
+	font-family: Comic Sans MS;
+	font-weight: bold;
+	margin-bottom: 10px;
+	border-radius: 10px;
+	border-color: pink;
+}
+h4{
+	font-weight: bold;
+	font-family: Papyrus;
+	font-style: italic;
+	font-size: 20;
+	color: purple;
+}
